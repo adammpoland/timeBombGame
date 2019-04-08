@@ -1,0 +1,13 @@
+c:\users\adam.poland\source\repos\bombV2.0\bombV2.0\bin\Debug\bombV2.0.exe.config
+c:\users\adam.poland\source\repos\bombV2.0\bombV2.0\bin\Debug\bombV2.0.exe
+c:\users\adam.poland\source\repos\bombV2.0\bombV2.0\bin\Debug\bombV2.0.pdb
+c:\users\adam.poland\source\repos\bombV2.0\bombV2.0\obj\Debug\bombV2.0.csprojAssemblyReference.cache
+c:\users\adam.poland\source\repos\bombV2.0\bombV2.0\obj\Debug\bombV2._0.Properties.Resources.resources
+c:\users\adam.poland\source\repos\bombV2.0\bombV2.0\obj\Debug\bombV2.0.csproj.GenerateResource.cache
+c:\users\adam.poland\source\repos\bombV2.0\bombV2.0\obj\Debug\bombV2.0.csproj.CoreCompileInputs.cache
+c:\users\adam.poland\source\repos\bombV2.0\bombV2.0\obj\Debug\bombV2.0.exe
+c:\users\adam.poland\source\repos\bombV2.0\bombV2.0\obj\Debug\bombV2.0.pdb
+c:\users\adam.poland\source\repos\bombV2.0\bombV2.0\obj\Debug\bombV2._0.BOMB.resources
+c:\users\adam.poland\source\repos\bombV2.0\bombV2.0\bin\Debug\dje\bombV2.0.resources.dll
+c:\users\adam.poland\source\repos\bombV2.0\bombV2.0\obj\Debug\bombV2._0.BOMB.dje.resources
+c:\users\adam.poland\source\repos\bombV2.0\bombV2.0\obj\Debug\dje\bombV2.0.resources.dll
